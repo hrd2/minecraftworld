@@ -137,15 +137,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2021-10-09 16:12:26 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2021-10-09 14:06:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-10-09 16:12:26 +0100"
     },
     "done": true
   },
@@ -185,12 +185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2021-10-09 14:06:59 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-10-09 13:45:48 +0100"
@@ -200,6 +194,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-09 14:04:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-10-09 14:06:59 +0100"
     },
     "done": true
   },
@@ -314,6 +314,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2021-10-09 14:10:06 +0100",
+      "cooked_beef": "2021-10-12 19:52:35 +0100",
       "apple": "2021-10-09 17:29:36 +0100",
       "melon_slice": "2021-10-09 16:12:34 +0100",
       "cooked_salmon": "2021-10-09 17:58:26 +0100"
@@ -614,9 +615,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_glass": "2021-10-09 14:56:21 +0100"
+      "slept_in_bed": "2021-10-09 14:05:06 +0100"
     },
     "done": true
   },
@@ -626,9 +627,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
-      "slept_in_bed": "2021-10-09 14:05:06 +0100"
+      "has_glass": "2021-10-09 14:56:21 +0100"
     },
     "done": true
   },
@@ -788,15 +789,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2021-10-09 14:06:59 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-09 14:04:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-10-09 14:06:59 +0100"
     },
     "done": true
   },
@@ -836,12 +837,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2021-10-09 14:40:32 +0100"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-10-09 16:08:02 +0100",
@@ -852,6 +847,12 @@
       "minecraft:zombie_villager": "2021-10-09 17:11:12 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-10-09 14:40:32 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -865,15 +866,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2021-10-09 13:45:48 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-10-09 13:41:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2021-10-09 13:45:48 +0100"
     },
     "done": true
   },
@@ -901,15 +902,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2021-10-09 14:56:21 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-09 14:04:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-10-09 14:56:21 +0100"
     },
     "done": true
   },
@@ -1003,12 +1004,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2021-10-09 15:15:15 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-10-09 14:57:14 +0100"
@@ -1018,6 +1013,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-10-09 14:58:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-10-09 15:15:15 +0100"
     },
     "done": true
   },
@@ -1033,15 +1034,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2021-10-09 14:56:21 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-09 14:04:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-10-09 14:56:21 +0100"
     },
     "done": true
   },
@@ -1108,6 +1109,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-10-09 14:06:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2021-10-12 19:27:14 +0100"
     },
     "done": true
   },
@@ -1213,15 +1220,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2021-10-09 14:33:46 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2021-10-09 14:24:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-10-09 14:33:46 +0100"
     },
     "done": true
   },
@@ -1532,7 +1539,9 @@
       "minecraft:mountains": "2021-10-09 15:03:50 +0100",
       "minecraft:jungle": "2021-10-09 15:05:44 +0100",
       "minecraft:river": "2021-10-09 13:46:23 +0100",
-      "minecraft:wooded_hills": "2021-10-09 13:30:21 +0100"
+      "minecraft:wooded_mountains": "2021-10-12 20:15:51 +0100",
+      "minecraft:wooded_hills": "2021-10-09 13:30:21 +0100",
+      "minecraft:plains": "2021-10-12 20:35:43 +0100"
     },
     "done": false
   },
@@ -1620,15 +1629,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2021-10-09 14:56:21 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-10-09 14:06:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-10-09 14:56:21 +0100"
     },
     "done": true
   },
