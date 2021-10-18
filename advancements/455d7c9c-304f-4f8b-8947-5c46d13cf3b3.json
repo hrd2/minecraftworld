@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-10-18 18:30:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-10-10 12:27:59 +0100"
@@ -320,6 +326,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-10-10 19:48:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-10-18 18:51:58 +0100"
     },
     "done": true
   },
@@ -980,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-10-18 18:51:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-10-09 13:14:56 +0100"
@@ -1019,6 +1037,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-10-17 10:54:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-10-18 18:51:58 +0100"
     },
     "done": true
   },
@@ -1978,6 +2002,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2021-10-18 18:52:10 +0100",
       "minecraft:cow": "2021-10-10 15:23:37 +0100",
       "minecraft:chicken": "2021-10-10 15:24:45 +0100"
     },
