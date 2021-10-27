@@ -650,6 +650,7 @@
       "minecraft:magma_cube": "2021-10-10 19:57:38 +0100",
       "minecraft:spider": "2021-10-10 12:01:48 +0100",
       "minecraft:creeper": "2021-10-10 12:02:18 +0100",
+      "minecraft:slime": "2021-10-27 20:10:37 +0100",
       "minecraft:zombified_piglin": "2021-10-13 19:48:43 +0100",
       "minecraft:witch": "2021-10-10 14:36:01 +0100",
       "minecraft:wither_skeleton": "2021-10-13 19:29:07 +0100",
@@ -662,6 +663,12 @@
       "minecraft:zombie_villager": "2021-10-09 13:53:14 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2021-10-27 19:50:42 +0100"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -834,6 +841,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-10-16 01:24:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2021-10-27 20:10:25 +0100"
     },
     "done": true
   },
@@ -1239,6 +1252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-10-27 19:50:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-10-10 12:27:59 +0100"
@@ -1552,6 +1571,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-10-09 13:42:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-10-27 19:50:44 +0100"
     },
     "done": true
   },
@@ -2285,6 +2310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-10-27 19:50:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-09 13:48:18 +0100"
@@ -2318,6 +2349,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-10-09 13:42:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-10-27 19:50:43 +0100"
     },
     "done": true
   },
@@ -2522,6 +2559,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-10-09 13:42:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2021-10-27 20:10:25 +0100"
     },
     "done": true
   },
